@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# SQLite Database
+*.db
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+
+# Temporary Files
+*.tmp
+
+# macOS
+.DS_Store
